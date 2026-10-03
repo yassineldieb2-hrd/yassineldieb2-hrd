@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Yassin 👋
 
-<!--
-**yassineldieb2-hrd/yassineldieb2-hrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineering student in Warsaw, building hands-on applied AI projects. I'm aiming for an applied AI engineer role (RAG, LLM workflows, agents), ideally in a startup, in Poland/Europe or the UAE.
 
-Here are some ideas to get you started:
+## What I've built
+- **[rag-eval-lab](https://github.com/yassineldieb2-hrd/rag-eval-lab)**: RAG with hybrid retrieval (pgvector + keyword) and a retrieval evaluation harness
+- **[n8n-support-triage](https://github.com/yassineldieb2-hrd/n8n-support-triage)**: n8n workflow that triages support tickets with a local LLM, with validation, retries and fallback
+- **[tool-agent-lab](https://github.com/yassineldieb2-hrd/tool-agent-lab)**: a tool-calling agent loop written from scratch
+- **[docs-search-mcp](https://github.com/yassineldieb2-hrd/docs-search-mcp)**: an MCP server in Python
+- **[lora-email-intent](https://github.com/yassineldieb2-hrd/lora-email-intent)**: LoRA fine-tuning with a base-vs-tuned evaluation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About these projects
+They are learning projects built on top of open-source examples (credited in each repo's `SOURCES.md`). Each README says what I changed and what I have and haven't tested. I used AI tools while building them, and I can explain how each part works.
+
+## Tools I work with
+Python · n8n · Supabase · Vercel · MCP · Ollama · pgvector · PyTorch / PEFT
+
+📍 Warsaw
